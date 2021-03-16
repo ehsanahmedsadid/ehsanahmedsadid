@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ehsanahmedsadid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ehsan Ahmed @ehsanahmedsadid
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning MERN,python and others.
+- 💞️ I’m looking to collaborate on currently none.
+- 📫 How to reach me anywhere @ehsanaahmedsadid
 
 <!---
 ehsanahmedsadid/ehsanahmedsadid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
